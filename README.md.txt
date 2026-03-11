@@ -1,0 +1,1 @@
+"Designed and implemented a network telemetry tool (Flight Recorder) using Python/Scapy. Built custom detection logic for DNS Tunneling and data exfiltration patterns, logging all telemetry to CSV for forensic analysis."
