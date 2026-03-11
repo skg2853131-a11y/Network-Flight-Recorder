@@ -1,0 +1,2 @@
+# Network-Flight-Recorder
+"I developed a Python-based Network Flight Recorder that captures real-time telemetry using the Scapy library. To solve the problem of network 'noise,' I implemented BPF filtering for web traffic and engineered a Heuristic Kill-Switch that automatically terminates the session if blacklisted IPs or DNS tunneling patterns are detected. It’s fully documented on my GitHub with forensic audit logs."
